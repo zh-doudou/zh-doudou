@@ -1,16 +1,21 @@
-## Hi there 👋
+# zh-doudou
 
-<!--
-**zh-doudou/zh-doudou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这是公开个人档案仓库，用于展示经过本人确认可以公开的个人简介、项目经历和作品链接。
 
-Here are some ideas to get you started:
+> 发布规则：只提交本人明确确认可公开的信息。不要提交个人隐私、密钥、私人 AI 上下文、原始聊天记录或第三方机密。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关于我
+
+<!-- 请补充经本人确认的公开简介。 -->
+
+## 重点项目
+
+<!-- 请补充可公开展示的项目及其成果。 -->
+
+## 详细资料
+
+- [简介](profile/about.md)
+- [公开简历](profile/resume.md)
+- [项目](profile/projects.md)
+- [联系方式](profile/contact.md)
+
